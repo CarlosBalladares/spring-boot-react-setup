@@ -1,10 +1,17 @@
-# spring-boot-react-setup
-A simplistic setup of spring boot and react. With a tutorial written by me. 
-
-## Tutorial link:
-https://medium.com/@carlosbf/beginner-tutorial-how-to-setup-react-with-spring-boot-1e4385521e32
+# News crawler
+A news crawling application
 
 ## To run
 ```
 ./mvnw spring-boot:run
 ```
+
+## Resources
+
+
+### NLP and machine learning
+[NLP resources for text analysis](https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98)
+[Topic detection paper](http://www.ai.rug.nl/~mwiering/Thesis_Robert_Musters.pdf)
+
+### Nutch
+[nutch plugin tutorial](https://florianhartl.com/nutch-plugin-tutorial.html)
